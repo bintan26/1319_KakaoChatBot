@@ -1,5 +1,4 @@
 # 1319_KakaoChatBot
-# 1319_KakaoChatBot
 Project Description: <br>
 
 현재 카카오 채널 "1319"에서 서비스를 만나보실 수 있습니다! <br><br>
